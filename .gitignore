@@ -20,4 +20,3 @@ share/python-wheels/
 *.egg
 MANIFEST
 lib*
-__*
